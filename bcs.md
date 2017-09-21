@@ -82,7 +82,7 @@ Quantum mechanics says that a small thing can act as both a particle and a wave 
 
 eg. photon in two-slit inteference experiment
 
-DIAGRAM two-slit
+.boo[![image](doubleslit.svg)]
 
 ---
 
@@ -103,7 +103,8 @@ This means the properties take discreet values only: "Quantum states"
 
 --
 
-DIAGRAM atom
+![image](orbital1.gif)
+![image](orbital2.gif)
 
 Energy levels of electrons around atomic nuclei -> chemistry
 
@@ -138,7 +139,8 @@ layout: true
 
 --
 
-DIAGRAM atom
+![image](orbital1.gif)
+![image](orbital2.gif)
 
 Electrons around atomic nuclei -> chemistry
 
@@ -156,7 +158,7 @@ Electrons around atomic nuclei -> chemistry
 
 --
 
-DIAGRAM laser
+![image](laser.jpg)
 
 Photons from a laser
 
@@ -198,7 +200,7 @@ layout: true
 
 --
 
-DIAGRAM 
+![image](feynman.png)
 
 The electromagnetic force acting between two electrons involves the exchange of a photon
 
@@ -212,7 +214,7 @@ layout: true
 
 ## Free electrons in a conductor
 
-DIAGRAM
+![image](electrons.gif)
 
 --
 
@@ -225,7 +227,7 @@ DIAGRAM
 
 ## Free electrons in a conductor
 
-DIAGRAM
+![image](electrons.gif)
 
 --
 
@@ -239,7 +241,9 @@ Decrease temperature -> ions vibrate less -> fewer collisions -> lower electrica
 
 ## Phonons
 
-DIAGRAM
+![image](phonon1.jpg)
+![image](phonon2.png)
+![image](phonon3.gif)
 
 Attraction between moving electrons and lattice ions -> Lattice vibrations
 
@@ -257,7 +261,9 @@ Wave-particle duality:
 
 ## Phonons
 
-DIAGRAM
+![image](phonon1.jpg)
+![image](phonon2.png)
+![image](phonon3.gif)
 
 - Phonons are bosons
 - They exchange force between electrons (although they're not really gauge bosons)
@@ -268,7 +274,9 @@ DIAGRAM
 
 ## Phonons
 
-DIAGRAM
+![image](phonon1.jpg)
+![image](phonon2.png)
+![image](phonon3.gif)
 
 Leon Cooper showed: 
 
